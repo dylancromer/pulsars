@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>//dylancromer.com/pulsars/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>//dylancromer.com/pulsars/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>//dylancromer.com/pulsars/tags/</loc>
     <priority>0</priority>
   </url>
   
