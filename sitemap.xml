@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>//dylancromer.com/pulsars/</loc>
+    <loc>//dylancromer.com/pulsars/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>//dylancromer.com/pulsars/tags/</loc>
-    <priority>0</priority>
+    <loc>//dylancromer.com/pulsars/</loc>
   </url>
   
 </urlset>
